@@ -2,7 +2,7 @@
 Data Analytics with Tableau
 
 
-In this repository I have use Tableau analytics for the implementation of different business use case.
+In this repository I have used Tableau software for the implementation of different business use case.
 
 1. Consumer spending by generation 
 2. Customer segmentation
